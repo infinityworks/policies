@@ -12,7 +12,7 @@ Our people and our culture are Infinity Works’ most valuable assets and we are
 
 Therefore, Infinity Works will not tolerate any instances of harassing or discriminatory behaviour towards other employees or our guests. As an Infinity Works employee or visitor you are expected to adhere to this so as to ensure a safe working space for everyone.
 
-If you are being harassed at work or notice somebody else may be, tell your advocate or a member of your local board immediately. If you are not an Infinity Works employee, please talk to a member of the PeopleOps team.
+If you are being harassed at work or notice somebody else may be, tell your advocate or a member of your local board immediately. If you are not an Infinity Works employee, please talk to a member of the People Ops team.
 
 ## Our Pledge
 Infinity Works pledge to provide a safe, friendly, and welcoming working environment for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
@@ -53,7 +53,7 @@ All employees must protect our company’s legality. They should comply with all
 
   * [Policies](https://policies.infinityworks.com/)
   
-All employees should read and follow our company policies. If they have any questions, they should ask their managers or the [People Team](https://intranet.infinityworks.com/key-people/head-office-support)
+All employees should read and follow our company policies. If they have any questions, they should ask their managers or the [People Ops team](https://intranet.infinityworks.com/key-people/head-office-support)
 
 ## Disciplinary actions
 Our company may have to take disciplinary action against employees who repeatedly or intentionally fail to follow our code of conduct. Disciplinary actions will vary depending on the violation and follow our Disciplinary process. 

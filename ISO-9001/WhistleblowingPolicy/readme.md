@@ -12,7 +12,7 @@ and any breach of legal or professional obligations.
 
 ## How to raise a concern
 We hope that in many cases you will be able to raise any concerns with your Manager. However, where you prefer
-not to raise it with your Manager for any reason, you should contact the [People Team](mailto:people@infinityworks.com).
+not to raise it with your Manager for any reason, you should contact the [People Ops team](mailto:people@infinityworks.com).
 
 We will arrange a meeting with you as soon as possible to discuss your concern. You may bring a colleague to any
 meetings under this policy. Your companion must respect the confidentiality of your disclosure or any subsequent

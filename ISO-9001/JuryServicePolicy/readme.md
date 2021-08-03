@@ -9,7 +9,7 @@ This policy does not form part of any employee's contract of employment and we m
 ## JURY SERVICE
 
 1. You should let your line manager know as soon as you are summoned for jury service and if requested,
-provide a copy of your summons to the [People Team](mailto:people@infinityworks.com). 
+provide a copy of your summons to the [People Ops team](mailto:people@infinityworks.com). 
 
 2. Depending on the demands of our business we may request that you apply to be excused
 from or defer your jury service.

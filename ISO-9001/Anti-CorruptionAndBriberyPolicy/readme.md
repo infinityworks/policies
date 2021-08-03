@@ -6,7 +6,7 @@ This policy applies to all persons working for us or on our behalf in any capaci
 ## What is bribery?
 
 “Bribe” means a financial or other inducement or reward for action which is illegal, unethical, a breach of trust or improper in any way.  Bribes can take the form of money, gifts, loans, fees, hospitality, services, discounts, the award of a contract or any other advantage or benefit. “Bribery” includes offering, promising, giving, accepting or seeking a bribe.
-All forms of bribery are strictly prohibited.  If you are unsure whether a particular act constitutes bribery, raise it with the [People Team](https://intranet.infinityworks.com/key-people/head-office-support).  
+All forms of bribery are strictly prohibited.  If you are unsure whether a particular act constitutes bribery, raise it with the [People Ops team](https://intranet.infinityworks.com/key-people/head-office-support).  
 Specifically you must not:
 Give or offer any payment, gift, hospitality or other benefit in the expectation that a business advantage will be received in return, or to reward any business received;
 Accept any offer from a third party that you know or suspect is made with the expectation that we will provide a business advantage for them or anyone else;
@@ -19,4 +19,4 @@ See the [Gifts & Hospitality](../GiftsandHospitality/readme.md) policy for infor
 
 ## How to raise a concern
 
-If you are offered a bribe or are asked to make one, or if you suspect that any bribery, corruption or other breach of this policy has occurred or may occur, please notify the [People Team](https://intranet.infinityworks.com/key-people/head-office-support) as soon as possible.
+If you are offered a bribe or are asked to make one, or if you suspect that any bribery, corruption or other breach of this policy has occurred or may occur, please notify the [People Ops team](https://intranet.infinityworks.com/key-people/head-office-support) as soon as possible.
