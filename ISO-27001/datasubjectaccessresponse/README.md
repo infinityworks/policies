@@ -98,7 +98,7 @@ Prior to lifting the restriction, the Legal Team shall inform the data subject o
 
 The Legal Team shall communicate the restriction of processing of the personal data to each recipient to whom the personal data has been disclosed, unless this is impossible or involves disproportionate effort.  The Legal Team shall also inform the data subject about those recipients if the data subject requests it.
 
-## Responding to requests for the portability of personal data
+## Responding to requests for the portability of personal data
 
 Data subjects have the right, in certain circumstances, to receive their personal data that they have provided to us in a structured, commonly used and machine-readable format that they can then transmit to another company. Where such a request is made, the Legal Team shall, unless there is an exemption (see below), provide the personal data without undue delay if:
 
@@ -129,7 +129,7 @@ Where such an objection is made, we shall, unless there is an exemption (see bel
 
 Where personal data is processed for direct marketing purposes, data subjects have the right to object at any time to the processing of their personal data for such marketing. If a data subject makes such a request, we shall stop processing the personal data for such purposes.
 
-## Responding to requests not to be subjected to automated decision making
+## Responding to requests not to be subjected to automated decision making
 
 Data subjects have the right, in certain circumstances, not to be subject to a decision based solely on the automated processing of their personal data, if such decision produces legal effects concerning them or similarly significantly affects them. Where such a request is made, we shall, unless there is an exemption (see below), no longer make such a decision unless it:
 

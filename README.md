@@ -16,8 +16,8 @@ Why do we have security policies in the first place? Well, for one it’ll make 
 
 ## Quality Management
 
-The phrase 'Quality Management' might not immediatley resonate with you. In this context, 'Quality Management' describes the processes that underpin how we function as a company and how we deliver services to our customers.
-The Organisation operates a Quality Management System that is ISO-9001 compliant, including aspects specific to the provision of IT services and software development. It's important we all understand these policies, they underpin IW's commitment to it's customers and to it's staff.
+The phrase 'Quality Management' might not immediately resonate with you. In this context, 'Quality Management' describes the processes that underpin how we function as a company and how we deliver services to our customers.
+The Organisation operates a Quality Management System that is ISO-9001 compliant, including aspects specific to the provision of IT services and software development. It's important we all understand these policies, they underpin IW's commitment to its customers and to its staff.
 
 > [Quality Management Policies](/ISO-9001)
 

@@ -6,12 +6,12 @@ Allowing employees to be responsible for and manage both the operating system an
 
 ## Purpose
 
-To outline the requirements of the consultants in maintaining their devices inline with company policies and in a secure fashion. Compliance with this policies mitigates key risks around the exposure of sensitive information contained within Infinity Works' computing network, the risk of introducing malware, the legal exposure of running unlicensed software and the potential breach of a device due to missing security patches.
+To outline the requirements of the consultants in maintaining their devices inline with company policies and in a secure fashion. Compliance with this policy mitigates key risks around the exposure of sensitive information contained within Infinity Works' computing network, the risk of introducing malware, the legal exposure of running unlicensed software and the potential breach of a device due to missing security patches.
 
 ## Scope
 
 - This policy applies to all Infinity Works employees, contractors, vendors and agents with an Infinity Works-owned and managed device.
-- Any Device used to store corporate information related to Infinity Works is in-scope of the policies set out here.
+- Any device used to store corporate information related to Infinity Works is in-scope of the policies set out here.
 
 This policy covers all computers, servers, smartphones, tablets and other computing devices operating within Infinity Works.
 
