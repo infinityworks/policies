@@ -22,7 +22,7 @@ kind referred to in the paragraph above.
 
 This policy applies to time off to take action which is necessary because of an immediate or unexpected crisis. This
 policy does not apply where you need to take planned time off or provide longer term care for a dependent. If this
-is the case, you should take the advice of the [People Team](mailto:people@infinityworks.com).
+is the case, you should take the advice of the [People Ops team](mailto:people@infinityworks.com).
 
 Whether action is considered necessary will depend on the circumstances, including the nature of the problem,
 the closeness of the relationship between you and the dependent and whether anyone else is available to assist.

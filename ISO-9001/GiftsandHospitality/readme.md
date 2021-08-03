@@ -19,5 +19,5 @@ parties in accordance with our expenses policy and record the reason for expendi
 ## How to raise a concern ##
 
 If you are offered a bribe or are asked to make one, or if you suspect that any bribery, corruption or other
-breach of this policy has occurred or may occur, please notify your Account Manager or the [People Team](mailto:people@infinityworks.com)
+breach of this policy has occurred or may occur, please notify your Account Manager or the [People Ops team](mailto:people@infinityworks.com)
 as soon as possible.

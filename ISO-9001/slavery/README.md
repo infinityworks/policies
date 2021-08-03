@@ -26,7 +26,7 @@
 
 2.1    Employees, contractors and suppliers must read, understand and comply with this policy and our related procedures.
 
-2.2    Please raise any questions or concerns about slavery or human trafficking in any parts of our business or supply chains with your manager, our People Ops Team, our Legal Team or in accordance with our whistleblowing procedures.  Employees can also contact a helpline provided by the Home Office on 0800 0121 700.
+2.2    Please raise any questions or concerns about slavery or human trafficking in any parts of our business or supply chains with your manager, our People Ops team, our Legal Team or in accordance with our whistleblowing procedures.  Employees can also contact a helpline provided by the Home Office on 0800 0121 700.
 
 ## 3. Breaches of this policy
 

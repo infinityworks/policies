@@ -6,7 +6,7 @@ The policies set out here dictate the security controls that underpin our commit
 
 ## Why are we implementing ISO27001?
 
-For one it'll make sure we don't get into any unnecessary trouble and perhaps do something accidental that might implicate a person, our company or a client.
+For one, it'll make sure we don't get into any unnecessary trouble and perhaps do something accidental that might implicate a person, our company or a client.
 
 Also, by having these policies we will demonstrate to our clients that we take security seriously and won't let ourselves or them down.
 Plus, it will unlock more doors to more clients in the future who count on this level of security from us.

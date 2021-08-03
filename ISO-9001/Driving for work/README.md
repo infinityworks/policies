@@ -4,7 +4,7 @@
 
 All employees with standard car insurance should only use their car for the purpose of social, domestic and commuting to and from work.   
 
-If an employee wishes to use their car for business purposes, they will need to complete the Driving for Work form (below) after which the People Team will contact them to confirm the following has been provided:
+If an employee wishes to use their car for business purposes, they will need to complete the Driving for Work form (below) after which the People Ops team will contact them to confirm the following has been provided:
 - A valid driving License.
 - A certified copy of Business Insurance cover
 - A certified copy of the previous annual service (within the past 12 months)

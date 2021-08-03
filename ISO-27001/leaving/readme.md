@@ -58,9 +58,9 @@ The company expects all employees with the right of terminating subordinates to 
 Constructive dismissal refers to an employee that has been forced to resign due to an employer’s intentional or unintentional unlawful or hostile behavior (e.g. breach of contract). It will not be practiced by any means by the company which is committed to maintain a relationship of honesty and fairness between itself and employees.
 
 ## Procedure
-In cases of resignation, the employee must submit an official written resignation letter to their Advocate, Account Lead, Managing Consultant or Line Manager who will forward this to the People Ops Team. A notice is expected by the employee consistent with the minimum notice requirement, so the company can arrange alternatives for handling the remaining workload of the position.
+In cases of resignation, the employee must submit an official written resignation letter to their Advocate, Account Lead, Managing Consultant or Line Manager who will forward this to the People Ops team. A notice is expected by the employee consistent with the minimum notice requirement, so the company can arrange alternatives for handling the remaining workload of the position.
 
-In cases of involuntary dismissal, a member of the Leadership Team must inform the People Ops Team at the date of separation or before that. Discharge for cause justifies immediate suspension until the necessary documentation for termination has been gathered. In some instances, a termination meeting with the employee, Account Lead, Managing Consultant or Director may be scheduled.
+In cases of involuntary dismissal, a member of the Leadership Team must inform the People Ops team at the date of separation or before that. Discharge for cause justifies immediate suspension until the necessary documentation for termination has been gathered. In some instances, a termination meeting with the employee, Account Lead, Managing Consultant or Director may be scheduled.
 
 In cases of discharge without cause, the employer must officially notify the employee of the termination a specified amount of time in advance. When severance pay is appropriate it will be officially stated in writing.
 
