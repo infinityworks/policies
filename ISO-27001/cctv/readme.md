@@ -1,5 +1,3 @@
-# CCTV
+# Moved to Handbook
 
-See [Physical Security](../physicalsecurity/readme.md)
-
-[back](../README.md#a-z-policies)
+This policy can now be found in the [handbook](https://handbook.infinityworks.com/policies/ISO-27001/cctv)

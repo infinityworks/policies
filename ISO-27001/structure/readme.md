@@ -1,5 +1,3 @@
-# The ISMS Committee Structure
+# Moved to Handbook
 
-The group members list is maintained at the root level of the ISO27001 policies, you can view these by clicking [this](../README.md#the-isms-committee) link.
-
-Contact Email: isms@infinityworks.com
+This policy can now be found in the [handbook](https://handbook.infinityworks.com/policies/ISO-27001/structure)
