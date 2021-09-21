@@ -1,5 +1,3 @@
-## Laptop Policy
+# Moved to Handbook
 
-See [Device Policy](../device/readme.md).
-
-[back](../README.md#a-z-policies)
+This policy can now be found in the [handbook](https://handbook.infinityworks.com/policies/ISO-27001/laptop)
